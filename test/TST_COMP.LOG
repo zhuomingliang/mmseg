@@ -1,0 +1,2247 @@
+>> 15 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 中國時報
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 社論
+-------------- No ambiguation, take 讓
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 走向
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 健康
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 國際化
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育部
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 官員
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 日前
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 表示
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 開放
+>> 14 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 外國
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 來台
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 招生
+-------------- No ambiguation, take 是
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育界
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 未來
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 必然
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 發展
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 趨勢
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 同時
+-------------- No ambiguation, take 也
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 表示
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 各級
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不能
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 及早
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 因應
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一旦
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 市場
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大開
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 勢將
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 變成
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 各國
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殖民地
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 許多
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+-------------- No ambiguation, take 將
+-------------- No ambiguation, take 因
+-------------- No ambiguation, take 招
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不到
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學生
+-------------- No ambiguation, take 而
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 3 chunks with largest mean length.
+>>>>>>>> 3 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 隨時
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 有
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 關門
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 危機
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一件事
+-------------- No ambiguation, take 有
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 多方面
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 涵意
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 首先
+-------------- No ambiguation, take 它
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 代表
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 社會
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國際化
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 程度
+-------------- No ambiguation, take 連
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+-------------- No ambiguation, take 也
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一步步
+-------------- No ambiguation, take 被
+>> 16 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 融入
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 世界市場
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 體系
+-------------- No ambiguation, take 中
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這是
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 過去
+-------------- No ambiguation, take 所
+>> 23 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 不曾有
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 過的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 現象
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第二
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 高等教育
+-------------- No ambiguation, take 也
+-------------- No ambiguation, take 將
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 商業化
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 成為
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一種
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 可以
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 競爭
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 產品
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 過去
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不乏
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 商界
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 人士
+-------------- No ambiguation, take 或
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 政客
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 利用
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 假期
+-------------- No ambiguation, take 到
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 歐美
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 野雞
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學校
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 進修
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學位
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 以致
+-------------- No ambiguation, take 於
+-------------- No ambiguation, take 有
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 3 chunks with largest mean length.
+>>>>>>>> 3 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 一
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 位在
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學歷
+-------------- No ambiguation, take 欄
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 填寫
+-------------- No ambiguation, take 某
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 博士
+-------------- No ambiguation, take 的
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 立委
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 候選人
+-------------- No ambiguation, take 被
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 他的
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 對手
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 挑戰
+-------------- No ambiguation, take 說
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 只要
+-------------- No ambiguation, take 他
+-------------- No ambiguation, take 能
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 提出
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 初中
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 以上
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 任何
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學歷
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 證明
+-------------- No ambiguation, take 便
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 願意
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 承認
+>> 12 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 他的
+>> 9 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 博士學位
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 但在
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 過去
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學位
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 商業化
+-------------- No ambiguation, take 的
+-------------- No ambiguation, take 事
+>> 12 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 常常
+-------------- No ambiguation, take 是
+>> 15 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 偷偷摸摸
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 進行
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 或是
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 只有
+-------------- No ambiguation, take 來
+-------------- No ambiguation, take 學
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 並無
+-------------- No ambiguation, take 往
+-------------- No ambiguation, take 教
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 現在
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 外國
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不只
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 歡迎
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學生
+-------------- No ambiguation, take 來
+-------------- No ambiguation, take 學
+-------------- No ambiguation, take 也
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 準備
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大舉
+-------------- No ambiguation, take 往
+-------------- No ambiguation, take 教
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 難怪
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 引起
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育界
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 震驚
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 其實
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 開放
+>> 14 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 外國
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 來台
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 招生
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 到底是
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 教育
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 國際化
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 還是
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殖民
+-------------- No ambiguation, take 化
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 其間
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 分野
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 很
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 細微
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 完全
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 決定
+-------------- No ambiguation, take 於
+-------------- No ambiguation, take 在
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這場
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 競爭
+-------------- No ambiguation, take 中
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 我們的
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+-------------- No ambiguation, take 是
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 競爭力
+-------------- No ambiguation, take 強
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一方
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 或是
+-------------- No ambiguation, take 被
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 宰制
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一方
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 本地
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+-------------- No ambiguation, take 夠
+-------------- No ambiguation, take 強
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 能將
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 好
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 學生
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 爭過
+-------------- No ambiguation, take 來
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 則是
+>> 18 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 高等教育
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國際化
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 先聲
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學生
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大量
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 流失
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 以致
+-------------- No ambiguation, take 於
+-------------- No ambiguation, take 如
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 某位
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育部
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 高級
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 官員
+-------------- No ambiguation, take 所
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 預言
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 將來
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 各級
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 校長
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 必須
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 具備
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 兩個
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 條件
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 第一
+-------------- No ambiguation, take 要
+-------------- No ambiguation, take 會
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 招生
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 第二
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 還是要
+-------------- No ambiguation, take 會
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 招生
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 那麼
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+-------------- No ambiguation, take 便
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 徹底
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 淪為
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 各國
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殖民地
+-------------- No ambiguation, take 了
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 就讀
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 外國
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學生
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 真正
+-------------- No ambiguation, take 能
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 得到
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國內
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+-------------- No ambiguation, take 所
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不能
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 提供
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 知識
+-------------- No ambiguation, take 和
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 訓練
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 那麼
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這個
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 發展
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 本身
+-------------- No ambiguation, take 是
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 健康
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 反之
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 只是
+-------------- No ambiguation, take 為
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 便於
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 逃避
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 兵役
+-------------- No ambiguation, take 或
+>> 17 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 盲目崇拜
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 西洋
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 文憑
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 那怕是
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 野雞
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學位
+-------------- No ambiguation, take 也
+-------------- No ambiguation, take 珍
+-------------- No ambiguation, take 若
+-------------- No ambiguation, take 拱
+-------------- No ambiguation, take 璧
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 那就
+-------------- No ambiguation, take 是
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學術
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殖民
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 化了
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如何
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 走向
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 健康
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 國際化
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 而不是
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殖民
+-------------- No ambiguation, take 化
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 我們
+-------------- No ambiguation, take 要
+-------------- No ambiguation, take 在
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這裡
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 討論
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 三個
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 問題
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第一
+>> 14 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如何
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 3 chunks with largest mean length.
+>>>>>>>> 3 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 在
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 外國
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+-------------- No ambiguation, take 到
+-------------- No ambiguation, take 台
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 招生
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 挑戰
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 之下
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 檢討
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 自己
+-------------- No ambiguation, take 並
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 增強
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 本地
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 體質
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第二
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如何
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 根絕
+-------------- No ambiguation, take 浮
+-------------- No ambiguation, take 騖
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 西洋
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 莫名其妙
+-------------- No ambiguation, take 地
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 追求
+-------------- No ambiguation, take 洋
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學位
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 風氣
+-------------- No ambiguation, take 並
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 建立起
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 本土
+-------------- No ambiguation, take 的
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學術
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 主體性
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第三
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如何
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 規範
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 來台
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 招生
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 外國
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學校
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第一
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+-------------- No ambiguation, take 應
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如何
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 強化
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 體質
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 首先
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 關於
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 領導人
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 選擇
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 我們
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 認為
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 近年
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 大學
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 中
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 選舉
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 校長
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 辦法
+-------------- No ambiguation, take 與
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 風氣
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 非但
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 不
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 足以
+-------------- No ambiguation, take 使
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大學
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 進步
+-------------- No ambiguation, take 反
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 足以
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 削弱
+-------------- No ambiguation, take 之
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 選風
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 敗壞
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 宣傳
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 拉票
+-------------- No ambiguation, take 黑
+-------------- No ambiguation, take 函
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 派系
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 慘不忍睹
+-------------- No ambiguation, take 而
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 選出
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 來的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不乏
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 最會
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 作秀
+-------------- No ambiguation, take 或
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 最有
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 世俗
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 知名
+-------------- No ambiguation, take 度
+-------------- No ambiguation, take 的
+-------------- No ambiguation, take 人
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一旦
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 當選
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 為了
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 連任
+-------------- No ambiguation, take 也
+-------------- No ambiguation, take 常
+>> 7 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 文過飾非
+-------------- No ambiguation, take 以
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 不
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 得罪
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 教授
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 為首
+-------------- No ambiguation, take 要
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 考慮
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 3 chunks with largest mean length.
+>>>>>>>> 3 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 而不
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 得罪
+-------------- No ambiguation, take 人
+-------------- No ambiguation, take 的
+>> 15 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 最好
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 辦法
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 便是
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 什麼事
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 都
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 不做
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 接著
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 關於
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 提升
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 大學
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學術
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 水準
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 提升
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 學術
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 水準
+-------------- No ambiguation, take 是
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 刻不容緩
+-------------- No ambiguation, take 的
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 否則
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+-------------- No ambiguation, take 的
+>> 12 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 學術
+>> 15 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 絕不
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 可能
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 獨立
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 胡適
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 生前
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 曾有
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學術
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 獨立
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 十年
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 計畫
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 希望
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 集中
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 全國
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 力量
+-------------- No ambiguation, take 以
+-------------- No ambiguation, take 十
+-------------- No ambiguation, take 所
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+-------------- No ambiguation, take 為
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 基地
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 全力
+>> 12 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 發展
+>> 9 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學術研究
+-------------- No ambiguation, take 四
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 五十
+-------------- No ambiguation, take 年
+-------------- No ambiguation, take 了
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這個
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 夢想
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 從未
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 實現
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不到
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 西方
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 取經
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 學問
+-------------- No ambiguation, take 上
+-------------- No ambiguation, take 就
+-------------- No ambiguation, take 難
+-------------- No ambiguation, take 有
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 突破
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 其實
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 好的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 研究
+-------------- No ambiguation, take 與
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 好的
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教學
+-------------- No ambiguation, take 是
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 互為因果
+-------------- No ambiguation, take 的
+-------------- No ambiguation, take 有
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 紮實
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 研究
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 才能
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 3 chunks with largest mean length.
+>>>>>>>> 3 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 真
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 正教
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 好書
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 否則
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 只是
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 賣弄
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 口才
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 詞藻
+-------------- No ambiguation, take 照
+-------------- No ambiguation, take 本
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 宣讀
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一些
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 過時
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 知識
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 而已
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 此外
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 齊頭
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 平等
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 全國
+-------------- No ambiguation, take 同
+-------------- No ambiguation, take 薪
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 同酬
+-------------- No ambiguation, take 式
+-------------- No ambiguation, take 的
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 教授
+-------------- No ambiguation, take 制
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 並不
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 足以
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 激勵
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學者
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 進行
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 寂寞
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 艱苦
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 研究
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 大學
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 應
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 考慮
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 增設
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 講座
+-------------- No ambiguation, take 並
+-------------- No ambiguation, take 依
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 研究
+-------------- No ambiguation, take 及
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教學
+-------------- No ambiguation, take 將
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 薪水
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 等級
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 區隔
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 開來
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 我們
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 同時
+-------------- No ambiguation, take 也
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 認為
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 大學
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 心臟
+-------------- No ambiguation, take 是
+>> 7 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 圖書館
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這一個
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 部份
+-------------- No ambiguation, take 的
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 投資
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 絕不能
+-------------- No ambiguation, take 省
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 也不能
+-------------- No ambiguation, take 求
+-------------- No ambiguation, take 急
+-------------- No ambiguation, take 功
+-------------- No ambiguation, take 以
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 目前
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 財力
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 而言
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 應該
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 謀求
+-------------- No ambiguation, take 在
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 最短
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 時間
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 內
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 建立
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 幾個
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 世界級
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 圖書館
+-------------- No ambiguation, take 並
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 強化
+-------------- No ambiguation, take 館
+-------------- No ambiguation, take 際
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 借書
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 功能
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 最後
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 大學
+-------------- No ambiguation, take 中
+-------------- No ambiguation, take 應
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 培養
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 有
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 理想
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不為
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 現實
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 求知
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 精神
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 無用
+-------------- No ambiguation, take 之
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 用是
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 為
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大用
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 有時
+-------------- No ambiguation, take 越
+-------------- No ambiguation, take 不
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 現實
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 反而
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 越能
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 成功
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這是
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 謀求
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學術
+>> 14 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 升級
+>> 16 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不能不
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 有的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一番
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 傻勁
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第二
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不應
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 存在
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 洋迷
+-------------- No ambiguation, take 信
+>> 19 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 近年來
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 台灣
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 已經
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 逐漸
+-------------- No ambiguation, take 從
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 過去
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 那種
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一味
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 崇洋
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 心態
+-------------- No ambiguation, take 下
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 緩解
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 過來
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 但是
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 洋迷
+-------------- No ambiguation, take 信
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 仍然
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 存在
+>> 17 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 從
+>> 20 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 上至
+>> 22 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 中央研究院
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 院士
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 選舉
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 下至
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 兒童
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 才藝
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 英文
+-------------- No ambiguation, take 班
+-------------- No ambiguation, take 的
+>> 17 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 流行
+>> 14 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 都可以
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 看出
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 市場
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 開放
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 之後
+-------------- No ambiguation, take 七
+-------------- No ambiguation, take 八
+-------------- No ambiguation, take 流
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 野雞
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 也可以
+-------------- No ambiguation, take 在
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國人
+-------------- No ambiguation, take 的
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 崇洋
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 心態
+-------------- No ambiguation, take 下
+-------------- No ambiguation, take 奪
+-------------- No ambiguation, take 朱
+-------------- No ambiguation, take 亂
+-------------- No ambiguation, take 雅
+-------------- No ambiguation, take 是
+-------------- No ambiguation, take 最
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 值得
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 警惕
+-------------- No ambiguation, take 的
+-------------- No ambiguation, take 事
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 此外
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國際化
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 同時
+-------------- No ambiguation, take 應
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 強調
+-------------- No ambiguation, take 其
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 本土化
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 多元
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 文化
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 國際觀
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 最終
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不能
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 失去
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 文化
+>> 6 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 主體性
+-------------- No ambiguation, take 敬
+-------------- No ambiguation, take 虔
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 地
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學習
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 西洋
+-------------- No ambiguation, take 與
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 變通
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 改造
+-------------- No ambiguation, take 它
+-------------- No ambiguation, take 來
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 適用
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 本土
+-------------- No ambiguation, take 應
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 同時
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 進行
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 畢竟
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育
+-------------- No ambiguation, take 的
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 最終目的
+-------------- No ambiguation, take 是
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 培養
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 這
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 一片
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 土地
+-------------- No ambiguation, take 上
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 所需
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 要的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 人才
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 這是
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 需要
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 把穩
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一個
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 方向
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 第三
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 我們
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 認為
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育部
+-------------- No ambiguation, take 應
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 嚴格
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 規範
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 來台
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 招生
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學校
+-------------- No ambiguation, take 儘
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 可能
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 根除
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 度假
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 出國
+-------------- No ambiguation, take 式
+-------------- No ambiguation, take 的
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 函授
+-------------- No ambiguation, take 式
+-------------- No ambiguation, take 的
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 或是
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 根本
+-------------- No ambiguation, take 只
+-------------- No ambiguation, take 授
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 學位
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 而
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不必
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 任何
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學習
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 野雞
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 前來
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 競爭
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 面對面
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教學
+-------------- No ambiguation, take 是
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 永遠
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 無可
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 取代
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 設計
+-------------- No ambiguation, take 再
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 精良
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 遠距
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 教學
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 都
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不應
+-------------- No ambiguation, take 被
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 鼓勵
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 知識
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 傳授
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 不只
+>> 12 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 侷限
+-------------- No ambiguation, take 於
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 字面上
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 東西
+-------------- No ambiguation, take 與
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 老師
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 面對面
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 接觸
+-------------- No ambiguation, take 從
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 他們的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 語調
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 風範
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 治學
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 經驗
+>> 16 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 都可以
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學到
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 東西
+-------------- No ambiguation, take 更
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 何況是
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 電光石火
+-------------- No ambiguation, take 般
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 辯論
+-------------- No ambiguation, take 與
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 攻錯
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 都有
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 無上
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 價值
+>> 20 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 有時候
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 書本上
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 說得
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 纏繞
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 夾雜
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 內容
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 經過
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 師友
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 幾句
+-------------- No ambiguation, take 點
+-------------- No ambiguation, take 撥
+-------------- No ambiguation, take 便
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 豁然
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 開解
+-------------- No ambiguation, take 或
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 整個
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 活了
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 過來
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 古人
+-------------- No ambiguation, take 所
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 說的
+-------------- No ambiguation, take 親
+-------------- No ambiguation, take 炙
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 絕對
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不是
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一句
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 空話
+-------------- No ambiguation, take 更
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 何況
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 在
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學習
+-------------- No ambiguation, take 中
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 還有
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 所謂
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 潛在
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 課程
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 整個
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 校園
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 建築
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 傳統
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 氣氛
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 甚至
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 同學
+-------------- No ambiguation, take 間
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 吃飯
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 聊天
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 都是
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 潛在
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 課程
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 一部分
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 潛在
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 課程
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 沒有
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學分
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 卻是
+-------------- No ambiguation, take 極
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 關鍵
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學習
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 活動
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 沒有
+-------------- No ambiguation, take 了
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 這些
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學習
+-------------- No ambiguation, take 是
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 殘廢
+-------------- No ambiguation, take 的
+>> 8 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 國內
+-------------- No ambiguation, take 的
+>> 17 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+-------------- Smallest_Variance_of_Word_Lengths Rule takes 高等
+>> 13 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 教育界
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 不應
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 抗拒
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 合格
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 正派
+-------------- No ambiguation, take 的
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 西方
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 前來
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 招生
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 因而
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 失去
+-------------- No ambiguation, take 了
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 刺激
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 挑戰
+-------------- No ambiguation, take 並
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 改善
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 自我
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 體質
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 力量
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 那些
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 早有
+>> 6 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學店
+-------------- No ambiguation, take 之
+-------------- No ambiguation, take 名
+-------------- No ambiguation, take 的
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 學校
+>> 15 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 如果
+>> 17 possible 3-word to 1-word chunk(s).
+>>>> 4 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 抵擋不住
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 競爭
+-------------- No ambiguation, take 該
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 淘汰
+-------------- No ambiguation, take 的
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 便應
+-------------- No ambiguation, take 被
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 淘汰
+>> 13 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 停止
+>> 11 possible 3-word to 1-word chunk(s).
+>>>> 5 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 誤人子弟
+-------------- No ambiguation, take 而
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 品質
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 不錯
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 大學
+-------------- No ambiguation, take 也
+-------------- No ambiguation, take 應
+-------------- No ambiguation, take 視
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 此為
+>> 11 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 一個
+>> 12 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 提升
+>> 8 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 學術
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 水準
+>> 9 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 建立
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 校風
+-------------- No ambiguation, take 與
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 傳統
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 以及
+>> 10 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 強化
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 教學
+>> 10 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+>>>>>> 2 chunks with largest mean length.
+>>>>>>>> 2 chunks with smallest variance of word lengths.
+-------------- Largest_Sum_of_100xLogCF Rule takes 品質
+-------------- No ambiguation, take 的
+>> 3 possible 3-word to 1-word chunk(s).
+>>>> 2 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 契機
+>> 7 possible 3-word to 1-word chunk(s).
+-------------- Maximum_Matching Rule takes 勇敢
+-------------- No ambiguation, take 的
+>> 5 possible 3-word to 1-word chunk(s).
+>>>> 3 chunks with maximum length.
+-------------- Largest_Average_Word_Length Rule takes 站起來
+ASCII characters = 27
+BIG-5 symbols = 206
+BIG-5 Chinese characters = 1803
+BIG-5 Chinese words = 1010
+Average BIG-5 Chinese word length = 1.785149
+Ambiguity resolution statistics:
+723 total instances of ambiguity: 
+53.94% resolved by Maximum Matching rule
+33.89% resolved by Largest Average Word Lengths rule
+0.83% resolved by Smallest Variance of Word Lengths rule
+11.34% resolved by Largest Sum of Log(CharFreq) rule

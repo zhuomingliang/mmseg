@@ -1,0 +1,18 @@
+# MMSEG: A Word Identification System for Mandarin Chinese Text
+#  Based On Two Variations of the Maximum Matching Algorithm  
+#                        Chih-Hao Tsai                        
+#          University of Illinois at Urbana-Champaign         
+#  c-tsai4@uiuc.edu  http://casper.beckman.uiuc.edu/~c-tsai4  
+#                           May 1996                          
+#
+# MAKEFILE for MMSEG.EXE                                      
+
+CPP = tcc -Ff=10240 -mc
+SOURCE = mmseg.c message.c iofiles.c lexicon.c search.c b5char.c getchunk.c \
+         segment.c mmsegmn1.c
+
+mmseg.exe: $(SOURCE)
+  $(CPP) -c $(SOURCE)
+  $(CPP) $(SOURCE:.c=.obj)
+
+
